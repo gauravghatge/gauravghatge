@@ -2,9 +2,9 @@
 ### Hi there 👋, I'm Gaurav
 ![A  Full Stack developer from India](https://images.unsplash.com/photo-1489533119213-66a5cd877091?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTB8fHF1b3Rlc3xlbnwwfDB8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60)
 
-I create Full stack web apps and Mobile apps. I post some of my work here feel free to fork or contribute .   
+I love to develop Full stack web apps and Mobile apps. I post some of my work here feel free to fork or contribute .   
 
-- 🌱 I’m currently learning Tenserflow Js. 
+- 🌱 I’m currently learning Machine Learning and Django. 
 - 👯 I’m looking to collaborate on Web Development Projects 
 - 💬 Ask me about Anything. Always open to fruitful conversations. 
 - 📫 How to reach me: gauravghatge2000@gmail.com 
